@@ -1,3 +1,4 @@
+certifi @ file:///croot/certifi_1671487769961/work/certifi
 cffi==1.14.2
 cmake==3.18.0
 cycler==0.10.0
@@ -8,7 +9,9 @@ intel-openmp==2020.0.133
 kiwisolver==1.1.0
 matplotlib==3.0.3
 mkl==2019.0
+mkl-fft==1.0.6
 mkl-include==2019.0
+mkl-random==1.0.1
 networkx==2.4
 numpy==1.18.5
 Pillow==7.2.0
@@ -20,6 +23,7 @@ PyYAML==5.3.1
 scikit-image==0.15.0
 scipy==1.4.1
 six==1.15.0
+TBB==0.2
 torch==0.4.1
 torchvision==0.2.1
 tqdm==4.19.9
